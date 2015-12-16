@@ -25,7 +25,8 @@ The framework is implemented in Python
 copy the folder src/awareness_deamon to your workspace
 
 ### Usage
-
+- To launch SP  run  service_deamon.py src/awareness_deamon
+- To use AC install the ovs-naxo.conf in your network simulator
 
 ###Authors
 
