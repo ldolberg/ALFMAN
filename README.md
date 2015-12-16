@@ -1,11 +1,6 @@
 ALFAMAN
 =======
 
-Authors : Lautaro Dolberg , Jérôme François , Shihabur Rahman Chowdhury , Reaz Ahmed, Raouf Boutaba  and Thomas Engel
-Date : 16/12/2015
-All rights reserved
-GPL version 2.0 to be found at: http://www.gnu.org/licenses/gpl-2.0.txt
-2015 University of Luxembourg - Interdisciplinary Centre for Security Reliability and Trust (SnT)
 
 ## Description
 
@@ -25,8 +20,18 @@ to the OpenFlow controller and then to the switches.
 
 The framework is implemented in Python
 
-## Installation
+### Installation
 
 copy the folder src/awareness_deamon to your workspace
 
-## Usage
+### Usage
+
+
+###Authors
+
+Lautaro Dolberg , Jérôme François , Shihabur Rahman Chowdhury , Reaz Ahmed, Raouf Boutaba  and Thomas Engel
+
+Date : 16/12/2015
+All rights reserved
+GPL version 2.0 to be found at: http://www.gnu.org/licenses/gpl-2.0.txt
+2015 University of Luxembourg - Interdisciplinary Centre for Security Reliability and Trust (SnT)
